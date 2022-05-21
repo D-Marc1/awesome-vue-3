@@ -192,6 +192,7 @@ A curated list of awesome things related to Vue 3
 - [FormKit](https://formkit.com) — ⚡️ Form generator, inputs, validation, internationalization (i18n) and much more.
 - [timer-hook](https://github.com/riderx/vue-timer-hook) - Handle timer, stopwatch, and time logic/state in your vue 3 component.
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, free drag via hooks.
+- [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 ## Examples
 
